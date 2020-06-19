@@ -1,0 +1,18 @@
+ori 	stage 1 	no attention 	no light conv 	294922kb	
+new1	stage1   	se attention	dw conv		176741kb
+new2	stage 1 	cseca attention	Ghost conv	90906kb
+
+33600 71.03
+36000 71.98
+38000 72.11
+40000 72.63
+42000 73.26
+44000 73.01
+46000 73.71
+48000 72.22
+50000 72.57
+52000 73.55
+54000 73.49
+56000 75.39
+58000 73.79
+60000 74.87
